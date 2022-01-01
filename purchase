@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Amazing luxury items that can help you to be different from everyone around you">
+  <meta name="keywords" content="Luxury goods, Haute couture clothing, Accessories, Luggage, High-end automobile, Yacht, Wine, Homes, Estates">
+  <link type="text/css" rel="stylesheet" href="css/main.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+  <title>This is It | Welcome</title>
+</head>
+
+<!---->
+<header>
+    <div class="logo">
+      <img src="./img/This_is_ It_Logo_Frame.jpg">
+    </div>
+
+    <nav>
+      <ul class="nav-list">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="purchase.html">Purchase</a></li>
+        <li><a href="contact.html">Contact</a></li>
+      </ul>
+    </nav>
+
+    <div class="searchbar">
+      <input type="search" placeholder="Search">
+    </div>
+
+</header>
+
+<!---->
+<body>
+  <div class="showcase">
+    <h1>Our Christmas gift features some of our bestselling items and luxurious accessories</h1>
+  </div>
+
+  <div class="purchase-item">
+    <strong>
+    <p>I T E M</p>
+    <p>DESCRIPTION</p>
+    <p>PRICE</p>
+    <p>QUANTITY</p>
+    </strong>
+  </div>
+
+  <div class="purchase-umbrella">
+    <img src="img/London_Undercover_1.jpg" alt="Wood-Handle Umbrella">
+    <p>Kingsman London Undercover's umbrella</p>
+    <p>Price <strong>£295.00</strong></p>
+  </div>
+
+  <div class="checkout">
+    <input type="text" 1="" id="" placeholder="1">
+    <br>
+    <img src="img/Delete_Button.jpg">
+    <br>
+    <button type="button">CHECKOUT</button>
+    <br>
+  </div>
+
+  <div class="payments-accepted">
+    <img src="img/Payments_accepted.png">
+  </div>
+
+</body>
+
+<!---->
+<footer>
+    <div class="socialnetork">
+      <img src="./img/Social_Networks.png">
+    </div>
+
+    <div class="giftcard">
+      <img src="./img/Gift_Card.png">
+    </div>
+
+    <div class="faq">
+      <img src="./img/FAQs.png">
+    </div>
+</footer>
+
+</html>
